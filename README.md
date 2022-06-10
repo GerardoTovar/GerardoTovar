@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Gerardo Tivar's profile!
+  Welcome to Gerardo Tovar's profile!
   <img src="https://github.com/GerardoTovar/GerardoTovar/raw/main/images/Hi.gif" width="32">
   <a href="#"><img align="right" src="https://github.com/GerardoTovar/GerardoTovar/raw/main/images/nick.gif" width="200 " height="200" /></a>
 </h3>
