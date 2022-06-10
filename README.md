@@ -1,7 +1,6 @@
 <h3 align="center">
   Welcome to Gerardo Tivar's profile!
   <img src="https://github.com/GerardoTovar/GerardoTovar/raw/main/images/Hi.gif" width="32">
-  <a href="#"><img align="right" src="https://github.com/GerardoTovar/GerardoTovar/raw/main/images/nick.gif" width="200 " height="200" /></a>
 </h3>
 
 <p align="center">
@@ -13,6 +12,7 @@
   <a href="https://github.com/GerardoTovar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoTovar&show_icons=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GerardoTovar&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=DD2727&dates=45E9FF&background=1A1B27"/>
+      <a href="#"><img align="right" src="https://github.com/GerardoTovar/GerardoTovar/raw/main/images/nick.gif" width="200 " height="200" /></a>
 </div>
 <h2 align="center"> 📫 Contact Me on Social Media </h2>
 
