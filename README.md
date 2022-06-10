@@ -8,8 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+web+and+app+developer;Experienced+UI%2FUX+Design;4+%2B+Years+Of+Coding+Experience;Always+Learning+New+Things"></a>
 </p>
 
-<br /><br /><br /><br />
-<br /><br /><br /><br />
+<br /><br /><br />
 <div align="center">
   <a href="https://github.com/GerardoTovar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoTovar&show_icons=true&count_private=true&theme=tokyonight"/>
